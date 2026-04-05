@@ -236,7 +236,7 @@
 </div>
 
 <script>
-  let SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxii10w6zLICU2H2A879R8ktlEm8jJWXIYTjcs7xM2euO2MOD2F41NQU5KBhd3v6X_Klw/exec"; // ← Changer ici si nouveau déploiement
+  let SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwxbNoBYNZLzQXKvCjZLTvmjCaWAiWN-U8eBmXguqRgNAb10RoPDY_ppahTtw-Sdoc_/exec"; // ← Changer ici si nouveau déploiement
   let currentConfig = null;
 
   async function init() {
